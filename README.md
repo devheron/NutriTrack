@@ -38,4 +38,6 @@ O NutriTrack é uma aplicação web para controle de consumo nutricional diário
 - scheduled_plans /	**Planos alimentares agendados para datas futuras**
 - user_goals /	**Metas diárias de calorias e proteína por usuário**
 
-📄 **devheron license** 📄
+📄 **heron dev license** 📄
+#### Acess: https://nutri-track-seven.vercel.app/
+#### github.com/devheron
